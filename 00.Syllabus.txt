@@ -1,0 +1,29 @@
+Syllabus
+
+Module 1 - Python Basics (1-6)
+    1.1 Your First Program
+    1.2 Types
+    1.3 Expressions and Variables
+    1.4 String Operations
+
+Module 2 - Python Data Structures (7-
+    2.1 Lists and Tuples
+    2.2 Sets
+    2.3 Dictionaries
+    
+Module 3 - Python Programming Fundamentals
+    Conditions and Branching
+    Loops
+    Functions
+    Objects and Classes
+    
+Module 4 - Working with Data in Python
+    Reading Files with Open
+    Writing Files with Open
+    Loading Data with Pandas
+    Working with and Saving Data with Panda
+    
+Module 5 - Working with Numpy Arrays
+    One Dimensional Numpy
+    Two Dimensional Numpy
+    Simple APIs
