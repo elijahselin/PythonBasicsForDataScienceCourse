@@ -1,0 +1,33 @@
+Syllabus
+
+Practice Labs - Sample Problems for playing with newly learned material.
+Lab - The full lesson with examples and quiz problems at the end.
+Review Questions - My work for the graded review questions.
+
+Module 1 - Python Basics (1-6)
+    1.1 Your First Program
+    1.2 Types
+    1.3 Expressions and Variables
+    1.4 String Operations
+
+Module 2 - Python Data Structures (7-13)
+    2.1 Lists and Tuples
+    2.2 Sets
+    2.3 Dictionaries
+    
+Module 3 - Python Programming Fundamentals (14-23)
+    3.1 Conditions and Branching
+    3.2 Loops
+    3.3 Functions
+    3.4 Objects and Classes
+    
+Module 4 - Working with Data in Python (24 - 29)
+    4.1 Reading Files with Open
+    4.2 Writing Files with Open
+    4.3 Loading Data with Pandas
+    4.4 Working with and Saving Data with Panda
+    
+Module 5 - Working with Numpy Arrays
+    One Dimensional Numpy
+    Two Dimensional Numpy
+    Simple APIs
